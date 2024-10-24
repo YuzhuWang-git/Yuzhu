@@ -1,5 +1,5 @@
 ---
-title: CV?
+title: CV
 layout: default
 ---
 
